@@ -19,7 +19,7 @@
 </table>
 
 <!-- VISITOR COUNTER & BADGES -->
-# Hi there, I'm Nikhil Limbu! 👋
+# Hi there, I'm Nikhil Limbu! 👋😎🤩
 
 <p align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Full+Stack+Web+Developer;Linux+%7C+Ubuntu+%7C+Nix+%7C+Nvim;React+%7C+TS+%7C+Rust+%7C+Python" alt="Typing SVG" /></a>
