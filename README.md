@@ -32,7 +32,7 @@
 ## ⚡ Quick Overview
 
 * 🎯 **Current Focus:** Building production-grade, highly scalable apps with **React 19** and **Next.js 15**.
-* ❄️ **DevOps & Infrastructure:** Deeply fascinated by declarative environments (**NixOS**) and containerization (**Docker**).
+* ❄️ **DevOps & Infrastructure:** Deeply fascinated by declarative environments (**NixOS,Nix flakes and Nix Language**) and containerization (**Docker**).
 * 🦀 **Expanding Horizons:** Writing utilities in **Python** and tackling systems concepts in **Rust**.
 
 ---
