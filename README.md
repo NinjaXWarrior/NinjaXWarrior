@@ -22,7 +22,7 @@
 # Hi there, I'm Nikhil ! 👋😁🤩
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Full+Stack+Web+Developer;Linux+%7C+Ubuntu+%7C+Nix+%7C+Nvim;React+%7C+TS+%7C+Rust+%7C+Python" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&width=435&lines=Full+Stack+Web+Developer;Linux+%7C+Omarchy+%7C+Nix+%7C+Nvim;React+%7C+TS+%7C+Rust+%7C+Python" alt="Typing SVG" /></a>
 </p>
 
 > I live and breathe the **JavaScript/TypeScript** ecosystem, daily-driving **Omarchy** while actively falling down the **NixOS** and **NeoVim** rabbit holes. When I'm not optimizing Next.js applications or containerizing services, I'm exploring memory safety in Rust.
